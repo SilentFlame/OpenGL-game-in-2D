@@ -1,7 +1,6 @@
 ## Cannon Fire ##
 
-----------------------------------------------------------------
- ### DEPENDENCIES ###
+### DEPENDENCIES ###
 ----------------------------------------------------------------
 Linux/Windows/ Mac OSX - Dependencies: (Recommended)
  GLFW
